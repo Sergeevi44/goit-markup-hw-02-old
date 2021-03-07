@@ -35,7 +35,8 @@ body {
 .features-list-item-header,
 .projects-header,
 .team-header,
-.team-list-item-header {
+.team-list-item-header,
+.gallery-list-item-header {
   color: #212121;
 }
 /* Projects */
@@ -44,6 +45,8 @@ body {
 .adress-link {
   color: #ffffff;
 }
+/* ПОРТФОЛИО */
+
 /* цвет основного текста #757575 */
 /* белый #ffffff */
 /* цвет дополнительного текста #212121 */
