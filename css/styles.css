@@ -1,3 +1,52 @@
 body {
-  background-color: tomato;
+  background-color: #e5e5e5;
+  color: #757575;
 }
+.list {
+  list-style: none;
+}
+/* Шапка */
+.link {
+  text-decoration: none;
+}
+.logo-first {
+  color: #2196f3;
+}
+.logo-second {
+  color: #000000;
+}
+.link {
+  color: #212121;
+}
+.header-link {
+  color: #757575;
+}
+.header-link:hover,
+.header-link:focus,
+.nav-list-item a:hover,
+.nav-list-item a:focus {
+  color: #2196f3;
+}
+/* Hero */
+.main-header {
+  color: #ffffff;
+}
+/* Features */
+.features-list-item-header,
+.projects-header,
+.team-header,
+.team-list-item-header {
+  color: #212121;
+}
+/* Projects */
+/* Footer */
+.adress,
+.adress-link {
+  color: #ffffff;
+}
+/* цвет основного текста #757575 */
+/* белый #ffffff */
+/* цвет дополнительного текста #212121 */
+/* акцент #2196f3 */
+/* цвет фона основной #e5e5e5 */
+/* цвет фона вторичный #2F303A */
