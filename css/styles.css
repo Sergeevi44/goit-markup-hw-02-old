@@ -127,7 +127,7 @@ body {
   letter-spacing: 0.06em;
   cursor: pointer;
 }
-.btn {
+.gallery-btn {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.63;
@@ -136,9 +136,12 @@ body {
   color: var(--secondary-color);
   cursor: pointer;
 }
-.btn:hover {
+.gallery-btn:hover {
   background-color: var(--accent-color);
   color: var(--primary-white-color);
+}
+.btn {
+  font-family: inherit;
 }
 .current a {
   color: var(--accent-color);
