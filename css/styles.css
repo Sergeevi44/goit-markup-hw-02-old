@@ -98,6 +98,7 @@ body {
 }
 .adress {
   color: var(--primary-white-color);
+  font-style: inherit;
 }
 .adress-link {
   color: rgba(255, 255, 255, 0.6);
